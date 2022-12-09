@@ -2,6 +2,9 @@ public class Hat {
     // Hat class first commit
 
     // Hat second commit
+
+
+    //Hat third commit
 }
 /*
 Checkout to feature-b
