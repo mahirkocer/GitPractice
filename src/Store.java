@@ -1,5 +1,7 @@
 public class Store {
     // features 1
+
+    //features 2
 }
 /*
 Create a new branch: feature-c
